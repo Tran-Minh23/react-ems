@@ -2,6 +2,13 @@
   This is a baisc React (React Hooks) apllication. This application is built on ems back-end.
   
   https://github.com/Tran-Minh23/springboot-ems-project
+  
+### Guide
+
+  1. You have to register first on "Register here"
+  2. After the registation, click on "Login here" to go back to login page
+  3. You are now in admin page, click on Department or Employee to go on
+  4. Now you can test the functions
 
 ### External libraries used on this project
   
@@ -20,7 +27,7 @@
   
  ### This fullstack application is now deploying on
  
-  https://heroku-frontend-ems.herokuapp.com/login?fbclid=IwAR0zkMrbKzxHVHyjBHGpn7_crkBK5trgmgMhkbf5FXootS3KST_6yksQJh8
+  https://heroku-frontend-ems.herokuapp.com/
   
 ### Warning
 
